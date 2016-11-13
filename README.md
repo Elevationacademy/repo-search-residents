@@ -8,7 +8,7 @@ First, notice there are a few blank files for you to start with.
 
 * [index.html](index.html)
 * [style.css](style.css)
-* [script.js](main.js)
+* [main.js](main.js)
 
 You should not need any additional files. Also, notice that we've included CSS Bootstrap to make styling easy. We have not included jQuery or any other libraries, but you are permitted to include any other libraries you want to complete the task.
 
