@@ -15,3 +15,5 @@ You should not need any additional files. Also, notice that we've included CSS B
 ## Requirements
 
 You will be building a small app that will search different organizations on github and find the repos that are associated with those organizations. Along with the different public repos associated with each organization, we will also display how many times each repo has been "forked" (copied). This will enable us to gage how "popular" a project is. For example, below is Facebook. As you can see, their most popular open-source project is "React".
+
+![alt tag](http://www.elevationacademy.co/wp-content/uploads/2016/11/Screen-Shot-2016-11-13-at-4.05.42-PM.png)
