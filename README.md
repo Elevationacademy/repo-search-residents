@@ -20,9 +20,10 @@ You will be building a small app that will search different organizations on git
 
 A use will type in an "organization" and click search, then the data will show up below. When a user searches for a different organization, the previous data will be removed. For this challenge you will need to:
 
-*Visually adhere to the image above.
-*Retrieve the necessary data using the github api.
-*Sort the repos by `forks_count`, so as to show the "most popular" repos first.
+* Visually adhere to the image above.
+* Retrieve the necessary data using the github api.
+* Sort the repos by `forks_count`, so as to show the "most popular" repos first.
+* Have each repo name link to the `html_url` for that repo. Be sure to open the link in a new tab.
 
 When you're finished, please send your work to your Elevation Academy contact as a .zip file or (preferably) a link to a public repo on GitHub.
 
