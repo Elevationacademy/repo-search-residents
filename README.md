@@ -29,14 +29,8 @@ When you're finished, please send your work to your Elevation Academy contact as
 
 ## Questions?
 
-Please use your best judgment to interpret the requirements above. However, if you're stuck with questions, feel free to email your Elevation Academy contact. There are no bad questions (well, for the most part).
+Please use your best judgment to interpret the requirements above. However, if you're stuck with questions, feel free to email Aaron (aaron@elevationacademy.co).
 
+For questions related to the interview process, email Nelly (office@elevationacademy.co).
 
-
-
-
-
-
-
-
-
+There are no bad questions (well, for the most part... there sort of are so just don't ask those).
