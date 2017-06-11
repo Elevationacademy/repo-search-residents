@@ -29,7 +29,7 @@ When you're finished, please send your work to your Elevation Academy contact as
 
 ## Questions?
 
-Please use your best judgment to interpret the requirements above. However, if you're stuck with questions, feel free to email Aaron (aaron@elevationacademy.co).
+Please use your best judgment to interpret the requirements above. However, if you're stuck with questions, feel free to email Aaron (brandon@elevationacademy.co).
 
 For questions related to the interview process, email Rona (office@elevationacademy.co).
 
